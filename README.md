@@ -1,1 +1,1 @@
-# NLP-of-Amazon-Review
+# NLP of Amazon Review
